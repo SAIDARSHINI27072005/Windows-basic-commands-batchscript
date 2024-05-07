@@ -35,50 +35,24 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 mkdir %userprofile%\Desktop\MyLab
 ```
 
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/ead4844f-0893-44ff-b14b-b42927527be5)
-
-
-
-## COMMAND AND OUTPUT
-
 List the contents of the "MyLab" directory.
 ```
 %userprofile%\Desktop\MyLab
 ```
-
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/58398f59-deda-4113-b053-910ecb4b8166)
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/048b21ad-2940-4f6e-8ea6-5282c55d1eb3)
-
-
-
-## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 ```
 %userprofile%\Desktop\MyLab
 ```
 
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/2465ae8f-4bb9-4488-9a4c-fbdc1b050417)
-
-
-## COMMAND AND OUTPUT
-
 Move the "MyLab" directory to the "Documents" folder.
 ```
 mkdir %userprofile%\Desktop\Backup mkdir %userprofile%\Desktop\Backup
 ```
-
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/c98ca4b7-65e0-405e-abb8-9ab12fa5f404)
-
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/a4aa8243-5ccc-49f9-ae83-3ec5a5ea5eee)
-
-
-## COMMAND AND OUTPUT
 ```
 mv Myfile.txt %userprofile%\Documents
 ```
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/13c88d1e-bbf8-4071-8ccd-04600efc8723)
-
+![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/ebf74c9a-cbe9-4600-849f-265b64ec4c63)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
@@ -92,9 +66,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 ## OUTPUT
 
-![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/56619f03-f7b0-4cae-aaa7-ac0a4e6e5ec1)
-
-
+![image](https://github.com/SAIDARSHINI27072005/Windows-basic-commands-batchscript/assets/147474227/8f6aeb41-d537-4dd7-8a49-cfabcea675d8)
 
 
 # RESULT:
